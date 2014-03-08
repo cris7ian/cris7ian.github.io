@@ -4,6 +4,12 @@ $icon-font-path: "/bower_components/sass-bootstrap/fonts/";
 @import 'bs';
 @import 'theme';
 
+@media (max-width: 800px) {
+  .container{
+    background-color: rgba(255,255,255,1);
+  }
+}
+
 .profile-pic {
   -webkit-box-shadow: 3px 3px 5px 4px rgba(0,0,0,.1);
   box-shadow: 3px 3px 5px 4px rgba(0,0,0,.1);
