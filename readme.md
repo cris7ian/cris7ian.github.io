@@ -1,4 +1,4 @@
-# JOGA+ Web
+# Cristian's Site
 
 Hello Hello, friends. Our beautiful app is build with [Yeoman](http://yeoman.io/). 
 
