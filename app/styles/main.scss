@@ -1,12 +1,14 @@
 $icon-font-path: "/bower_components/sass-bootstrap/fonts/";
 @import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,300italic,400italic);
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:400,700,300);
+@import 'bs';
+@import 'theme';
 
 .profile-pic {
   -webkit-box-shadow: 3px 3px 5px 4px rgba(0,0,0,.2);
   box-shadow: 3px 3px 5px 4px rgba(0,0,0,.2);
 }
 
-.justified {
+.span9 p{
   text-align: justify;
 }

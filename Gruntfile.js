@@ -200,8 +200,7 @@ module.exports = function (grunt) {
                     src: [
                         '<%= yeoman.dist %>/scripts/{,*/}*.js',
                         '<%= yeoman.dist %>/styles/{,*/}*.css',
-                        '<%= yeoman.dist %>/images/{,*/}*.{gif,jpeg,jpg,png,webp}',
-                        '<%= yeoman.dist %>/styles/fonts/{,*/}*.*'
+                        '<%= yeoman.dist %>/styles/font/{,*/}*.*'
                     ]
                 }
             }
@@ -313,7 +312,7 @@ module.exports = function (grunt) {
                             '*.{ico,png,txt}',
                             '.htaccess',
                             'images/{,*/}*.webp',
-                            'font/{,*/}*.webp',
+                            'font/{,*/}*.*',
                             '{,*/}*.html',
                             'styles/fonts/{,*/}*.*',
                             'bower_components/' + (this.includeCompass ? 'sass-' : '') + 'bootstrap/' + (this.includeCompass ? 'fonts/' : 'dist/fonts/') + '*.*'
