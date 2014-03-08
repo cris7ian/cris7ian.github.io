@@ -22,7 +22,7 @@ bower install
 Good, we now have everything we need. Now we need to run our server and see how our client looks like.
 
 ```
-grunt server
+grunt serve
 ```
 
 ## Build

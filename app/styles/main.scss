@@ -5,8 +5,9 @@ $icon-font-path: "/bower_components/sass-bootstrap/fonts/";
 @import 'theme';
 
 .profile-pic {
-  -webkit-box-shadow: 3px 3px 5px 4px rgba(0,0,0,.2);
-  box-shadow: 3px 3px 5px 4px rgba(0,0,0,.2);
+  -webkit-box-shadow: 3px 3px 5px 4px rgba(0,0,0,.1);
+  box-shadow: 3px 3px 5px 4px rgba(0,0,0,.1);
+  border: 6px solid white;
 }
 
 .span9 p{
