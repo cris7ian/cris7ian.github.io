@@ -1,7 +1,6 @@
 {
   "name": "cristiancaroli",
   "version": "1.0.0",
-  "homepage": "https://cris7ian.github.io/cristiancaroli.com",
   "private": true,
   "lint-staged": {
     "*.js": [
@@ -10,7 +9,6 @@
     ]
   },
   "dependencies": {
-    "gh-pages": "^1.0.0",
     "moment": "^2.18.1",
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
@@ -25,8 +23,6 @@
     "react-scripts": "1.0.9"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "precommit": "lint-staged",
     "start": "react-scripts start",
     "build": "react-scripts build",
