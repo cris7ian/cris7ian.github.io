@@ -21,7 +21,7 @@ class App extends Component {
     return (
       <div className="App">
         <section className="container">
-          <Header/>
+          <Header />
           <article className="row-fluid">
             <header className="span3" />
             <div className="span9 ">
