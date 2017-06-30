@@ -32,7 +32,7 @@ const Personal = () => (
         Also, I have my own storytelling blog
         {' '}
         <a
-          href="http://www.invisiblebridg.es/"
+          href="https://medium.com/invisible-bridges"
           target="_blank"
           rel="noopener noreferrer"
         >
