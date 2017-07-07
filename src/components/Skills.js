@@ -61,7 +61,7 @@ const Skills = () => (
       <div className="row-fluid skills">
         <ul className="span6">
           <li>
-            <h4>Game Engines/Frameworks</h4>
+            <h4>Game Engines</h4>
           </li>
           <li>Unity</li>
           <li>UDK</li>

@@ -14,7 +14,7 @@ const Awards = () => (
         <a
           target="_blank"
           rel="noopener noreferrer"
-          href="http://yearinreview.tumblr.com/post/68815141660/sexmind-mcalc-the-first-gender-neutral"
+          href="http://2013inreblogs.tumblr.com/post/102880558352/sexmind-mcalc-the-first-gender-neutral"
         >
           A Year in Review
         </a>
@@ -35,14 +35,14 @@ const Awards = () => (
       <h4>Best Webapp in Paypal Battle Hack Barcelona</h4>
       <h5>2013</h5>
       <p>
-        Took the role of product owner in a pay-what-you-want marketplace for secondhand with Paypal integration under 24 hours.
+        Took the role of product owner and developer in a pay-what-you-want marketplace for secondhand with Paypal integration under 24 hours.
       </p>
       <br />
 
       <h4>4th Place 1st Vueling Hackathon</h4>
       <h5>2013</h5>
       <p>
-        Took the role of product owner in a group oriented booking engine with Phonegap under 18 hours.
+        Took the role of product owner and developer in a group oriented booking engine with Phonegap under 18 hours.
       </p>
       <br />
     </div>

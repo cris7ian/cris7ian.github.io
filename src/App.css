@@ -25,7 +25,8 @@
 body {
     font-family: Helvetica, Source Sans Pro, Open Sans, Helvetica, Arial, sans-serif;
     background-color: #1F1F1F;
-    background: url("./images/moving.gif") no-repeat top left fixed;
+    /*background: url("https://media3.giphy.com/media/3o6gDQeSNqf3DlIUbC/giphy.gif") no-repeat top left fixed;*/
+    background: url("https://media.giphy.com/media/3oEjHImwTUlfR2wBji/giphy.gif") repeat top left fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -33,9 +34,18 @@ body {
     font-weight: 300;
 }
 
+.job {
+    margin-bottom: 40px;
+
+}
+
+.job h4 {
+    font-size: 20px;
+}
+
 .container {
     max-width: 700px;
-    background-color: rgba(255,255,255,.9);
+    background-color: rgba(255,255,255,.95);
     padding: 25px 50px;
     margin: 20px auto;
 }

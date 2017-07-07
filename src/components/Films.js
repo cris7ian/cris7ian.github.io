@@ -28,7 +28,7 @@ const Films = () => (
           >
             full
             film
-          </a> password: Cervezatostada.
+          </a> password: CervezaTostada.
         </li>
         <li>
           <b>Quiero</b>; assistant director
@@ -36,12 +36,10 @@ const Films = () => (
           <a
             target="_blank"
             rel="noopener noreferrer"
-            href="https://vimeo.com/43299265"
+            href="http://www.escac.es/es/films/2014/quiero"
           >
             full film
           </a>
-          {' '}
-          password: quieroquiero.
         </li>
         <li>
           <b>Una Hora, Un Paso</b>; assistant director, producer.
@@ -49,9 +47,9 @@ const Films = () => (
           <a
             target="_blank"
             rel="noopener noreferrer"
-            href="http://vimeo.com/68640760"
+            href="http://www.kimuak.com/es/corto/2013/una-hora-un-paso"
           >
-            trailer
+            full film
           </a>
         </li>
         <li>among others</li>
