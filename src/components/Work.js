@@ -24,7 +24,7 @@ const Work = () => (
         <h4>API Solutions Engineer @ 3scale</h4>
         <h5>may 2015 - august 2015</h5>
         <p>
-          My role is to ensure the success of our customers as they
+          My role was to ensure the success of our customers as they
           deploy 3scale's platform.
           I drive implementation projects covering a wide
           variety of API architectures for high-profile launches.
