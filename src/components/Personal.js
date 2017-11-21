@@ -11,6 +11,8 @@ const Personal = () => (
         I have worked in different multimedia projects that have taken me to Film Festivals in Sitges, San Sebastián and all over Latin America.
       </p>
       <br />
+      <p>Also managed to combine both my passions (programming and film) with my node package <a href="https://twitter.com/cris7ian/status/932884799685103616" target="_blank">moviematch</a>.</p>
+      <br />
 
       <h4>Writing</h4>
       <p>
@@ -22,10 +24,14 @@ const Personal = () => (
         {' '}
         <i>Bajo la Sombra de los Elefantes</i>
         {' '}
-        <a href="http://www.amazon.com/Bajo-Sombra-Los-Elefantes-Spanish/dp/1511523093/ref=sr_1_1?ie=UTF8&qid=1432376873&sr=8-1&keywords=bajo+la+sombra+de+los+elefantes">
+        <a target="_blank" href="http://www.amazon.com/Bajo-Sombra-Los-Elefantes-Spanish/dp/1511523093/ref=sr_1_1?ie=UTF8&qid=1432376873&sr=8-1&keywords=bajo+la+sombra+de+los+elefantes">
           in Amazon
         </a>
         .
+      </p>
+      <br />
+      <p>
+        Read some funny stuff I post online in <a target="_blank" href="http://www.firstdraftendings.com/">First Draft Endings</a>.
       </p>
       <br />
       <p>
