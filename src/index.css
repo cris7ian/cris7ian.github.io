@@ -2,11 +2,11 @@ body {
   margin: 0 !important;
   padding: 0 !important;
   font-family: sans-serif;
-	background: linear-gradient(-45deg, #69D2E7, #A7DBD8, #E0E4CC, #F38630) !important;
+	background: linear-gradient(-45deg, #69D2E7, #A7DBD8, #E0E4CC, #F38630);
 	background-size: cover !important;
-	-webkit-animation: Gradient 15s ease infinite !important;
-	-moz-animation: Gradient 15s ease infinite !important;
-	animation: Gradient 15s ease infinite !important;
+	-webkit-animation: Gradient 7s ease infinite;
+	-moz-animation: Gradient 7s ease infinite;
+	animation: Gradient 7s ease infinite;
 }
 
 @-webkit-keyframes Gradient {
