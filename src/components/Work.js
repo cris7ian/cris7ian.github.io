@@ -10,7 +10,7 @@ const Work = () => (
         <h4>Senior Consultant @ ThoughtWorks</h4>
         <h5>january 2017 - current</h5>
         <p>
-          My mission is to better humanity through software and help drive the creation of a socially and economically just world.
+          My mission is to better humanity through software and help drive positive changes in our world.
         </p>
       </div>
       <div className="job">
