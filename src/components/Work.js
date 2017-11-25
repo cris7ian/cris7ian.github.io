@@ -24,9 +24,9 @@ const Work = () => (
         <h4>API Solutions Engineer @ 3scale</h4>
         <h5>may 2015 - august 2015</h5>
         <p>
-          My role was to ensure the success of our customers as they
-          deploy 3scale's platform.
-          I drive implementation projects covering a wide
+          My role was to ensure the success of customers as they
+          deployed 3scale's platform.
+          I drove implementation projects covering a wide
           variety of API architectures for high-profile launches.
         </p>
         <p>
@@ -39,7 +39,7 @@ const Work = () => (
         <h4>Game Developer @ Akamon Entertainment</h4>
         <h5>may 2013 - may 2015</h5>
         <p>
-          Frontend and Backend developer of Social Games for a platform of over 11 million users. Projects developed using Java, AS3/Flash, MySQL, Ruby and lovely Node.js.
+          Frontend and Backend developer of Social Games for a platform of over 11 million users. Projects developed using Java, AS3/Flash, MySQL, Ruby and Node.js.
         </p>
       </div>
       <div className="job">
