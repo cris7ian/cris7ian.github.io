@@ -8,12 +8,24 @@ const Personal = () => (
     <div className="span9">
       <h4>Film production and performing arts</h4>
       <p>
-        I have worked in different multimedia projects that have taken me to Film Festivals in Sitges, San Sebastián and all over Latin America.
+        I've worked in different multimedia projects that have taken me to Film
+        Festivals in Sitges, San Sebastián and all over Latin America.
       </p>
       <br />
       <p>
-        Also managed to combine both my passions (programming and film) to make my node package
-        {' '}
+        I have a YouTube Channel called{' '}
+        <a
+          rel="noopener noreferrer"
+          target="_blank"
+          href="https://www.youtube.com/channel/UC7N8oiW9sgFpkZwKMt5lpcA"
+        >
+          Super Political Compass
+        </a>
+      </p>
+      <br />
+      <p>
+        I managed to combine both my passions (programming and film) to make my
+        node package{' '}
         <a
           rel="noopener noreferrer"
           href="https://twitter.com/cris7ian/status/932884799685103616"
@@ -27,14 +39,12 @@ const Personal = () => (
 
       <h4>Writing</h4>
       <p>
-        I am a published author of short stories and I’m currently writing an action novel and a steampunk oddisey.
+        I am a published author of short stories and I’m currently writing an
+        action novel and a steampunk oddisey.
       </p>
       <br />
       <p>
-        You can buy my book
-        {' '}
-        <i>Bajo la Sombra de los Elefantes</i>
-        {' '}
+        You can buy my book <i>Bajo la Sombra de los Elefantes</i>{' '}
         <a
           target="_blank"
           rel="noopener noreferrer"
@@ -46,8 +56,7 @@ const Personal = () => (
       </p>
       <br />
       <p>
-        Read some funny stuff I post online in
-        {' '}
+        Read some funny stuff I post online in{' '}
         <a
           target="_blank"
           rel="noopener noreferrer"
@@ -59,8 +68,7 @@ const Personal = () => (
       </p>
       <br />
       <p>
-        I also made a Venezuelan adaptation of Cards Against Humanity called
-        {' '}
+        I made a Venezuelan adaptation of Cards Against Humanity called{' '}
         <a
           target="_blank"
           rel="noopener noreferrer"
@@ -72,8 +80,7 @@ const Personal = () => (
       </p>
       <br />
       <p>
-        Also, I have my own storytelling blog
-        {' '}
+        Also, I have my own storytelling blog{' '}
         <a
           href="https://medium.com/invisible-bridges"
           target="_blank"
@@ -83,8 +90,37 @@ const Personal = () => (
         </a>
       </p>
       <br />
-      <h4>Open water diver, certified IANTD diver</h4>
-      <p>Gotta love fish, water and all that stuff.</p>
+      <h4>Digital Card Games</h4>
+      <p>I love to play at a competitive level the following games:</p>
+      <ul style={{ 'list-style-type': 'circle', 'margin-left': '30px' }}>
+        <li>
+          <a
+            href="https://playhearthstone.com/es-es/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Hearthstone
+          </a>
+        </li>
+        <li>
+          <a
+            href="https://duelyst.com/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Duelyst
+          </a>
+        </li>
+        <li>
+          <a
+            href="https://clashroyale.com/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Clash Royale
+          </a>
+        </li>
+      </ul>
       <br />
     </div>
   </article>
