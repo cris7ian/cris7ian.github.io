@@ -18,7 +18,7 @@ const Work = () => (
         <h5>august 2015 - january 2017</h5>
         <p>
           I was one of the founders of Chalk. Our goal was to make the best Daily Fantasy Sports site in the world. I was in charge of the product conception, part of the development team, and overseeing the art direction and brand identity of the company.
-        </p>
+        </p> 
       </div>
       <div className="job">
         <h4>API Solutions Engineer @ 3scale</h4>
