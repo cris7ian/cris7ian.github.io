@@ -35,6 +35,10 @@ const Personal = () => (
       </p>
       <br />
       <p>
+        I also made a Venezuelan adaptation of Cards Against Humanity called <a target="_blank" rel="noopener noreferrer" href="http://www.caracasagainsthumanity.com/" >Caracas Against Humanity</a>.
+      </p>
+      <br />
+      <p>
         Also, I have my own storytelling blog
         {' '}
         <a

@@ -52,6 +52,7 @@ class App extends Component {
           <Skills />
           <Work />
           <Awards />
+          <Personal />
           <Education />
           <Thesis />
           <Certifications />
@@ -59,7 +60,6 @@ class App extends Component {
           <Speaker />
           <Films />
           <Interests />
-          <Personal />
           <footer className="no-print">
             © {moment().format('YYYY')} Cristian E. Caroli |
             <a onClick={() => window.print()}>Print</a>

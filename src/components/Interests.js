@@ -7,12 +7,12 @@ const Interests = () => (
     </header>
     <div className="span9">
       <ul>
+        <li>Storytelling.</li>    
         <li>Game Design.</li>
-        <li>Storytelling.</li>
-        <li>Interactive Narrative.</li>
+        <li>Interactive Narratives.</li>
         <li>Artificial Intelligence.</li>
         <li>Computer Graphics.</li>
-        <li>UIX.</li>
+        <li>UX.</li>
       </ul>
     </div>
   </article>
