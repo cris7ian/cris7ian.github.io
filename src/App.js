@@ -38,8 +38,9 @@ class App extends Component {
             </header>
             <div className="span9">
               <p>
-                I am a creative and project-driven individual. I believe in teamwork and the seamless integration of art and technology. I have written books, directed films, designed and developed apps and videogames not because I can’t find my element,
-                but because my element is the execution of ideas.
+                I am a creative project-driven individual. I believe in teamwork and the 
+                seamless integration of art and technology. I have written books, directed films, 
+                developed apps and videogames because my element is the execution of ideas.
               </p>
               <br />
 
