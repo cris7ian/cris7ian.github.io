@@ -122,6 +122,12 @@ const Personal = () => (
         </li>
       </ul>
       <br />
+      <div>
+        <em>
+          I also happen to have a couple of Fortnite wins under my belt in duos
+          and squads.
+        </em>
+      </div>
     </div>
   </article>
 )
