@@ -1,6 +1,5 @@
 import React, { Component } from 'react'
 
-import moment from 'moment'
 import Header from './components/Header'
 import Education from './components/Education'
 import Skills from './components/Skills'
@@ -26,10 +25,13 @@ class App extends Component {
             <header className="span3" />
             <div className="span9 ">
               <p className="welcome">
-                "Imagination will often carry us to worlds that never were. But without it we go nowhere."
+                "Imagination will often carry us to worlds that never were. But
+                without it we go nowhere."
                 <br />
               </p>
-              <p className="auth"><i>-Carl Sagan</i></p>
+              <p className="auth">
+                <i>-Carl Sagan</i>
+              </p>
             </div>
           </article>
           <article className="row-fluid">
@@ -38,9 +40,10 @@ class App extends Component {
             </header>
             <div className="span9">
               <p>
-                I am a creative project-driven individual. I believe in teamwork and the 
-                seamless integration of art and technology. I have written books, directed films, 
-                developed apps and videogames because my element is the execution of ideas.
+                I am a creative project-driven individual. I believe in teamwork
+                and the seamless integration of art and technology. I have
+                written books, directed films, developed apps and videogames
+                because my element is the execution of ideas.
               </p>
               <br />
 
@@ -62,7 +65,7 @@ class App extends Component {
           <Films />
           <Interests />
           <footer className="no-print">
-            © {moment().format('YYYY')} Cristian E. Caroli |
+            © {new Date().getFullYear()} Cristian E. Caroli |
             <a onClick={() => window.print()}>Print</a>
           </footer>
         </section>
