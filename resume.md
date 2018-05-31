@@ -31,8 +31,14 @@ I like pizza, too.
 ### Senior Consultant @ ThoughtWorks
 #### january 2017 - current
 
-My mission is to better humanity through software and help drive positive changes in our world
+I am currently leading a team focused in developing and maintaining a collection of business critical services
+while trying to achieve the utmost standards in software development practices. I am responsible for building 
+client relationships outside the team to generate further influence and impact
+in the project and refine the business strategy we have to follow. 
 
+I also actively participate in our community as a facilitator and contributor in a variety of internal and external
+events.
+          
 ### Head of Product Design @ Chalk
 #### august 2015 - january 2017
 
