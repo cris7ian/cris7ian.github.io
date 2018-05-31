@@ -70,7 +70,7 @@ class App extends Component {
               href="https://github.com/cris7ian/cristiancaroli.com/raw/master/resume.pdf"
               target="_blank"
             >
-              Print
+              Download
             </a>
           </footer>
         </section>
