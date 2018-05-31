@@ -66,7 +66,12 @@ class App extends Component {
           <Interests />
           <footer className="no-print">
             © {new Date().getFullYear()} Cristian E. Caroli |
-            <a onClick={() => window.print()}>Print</a>
+            <a
+              href="https://github.com/cris7ian/cristiancaroli.com/raw/master/resume.pdf"
+              target="_blank"
+            >
+              Print
+            </a>
           </footer>
         </section>
       </div>
