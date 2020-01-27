@@ -15,21 +15,26 @@ I am a creative project-driven individual. I believe in teamwork and the seamles
 
 Engineer / Game Dev / Filmmaker / Writer
 
-I like pizza, too.
+I'm tall too.
 
 ## Skills
 
-- **Programming Languages**: JavaScript / ES7, Java, Ruby, Python
+- **Programming Languages**: JavaScript / ES7, Java, Ruby, Python, Scala
 - **Collaborative**: XP, Test Driven Development, Scrum, Kanban, Jira, Gitflow
-- **Frameworks**: React/Redux, Express, Spring Boot, Rails
+- **Frameworks**: React/Redux, Express, Spring Boot, Rails, Play
 - **Cloud**: AWS, Travis, Jenkins, TeamCity, Heroku
-- **Tools**: Babel, Webpack, Gulp, Grunt
+- **Tools**: Webpack, Gulp, Grunt
 - **Software**: After Effects, Premiere, Photoshop
 
 ## Work Experience
 
+### Tech Lead @ ThoughtWorks
+#### april 2019 - while you're reading this
+
+To put it briefly, software engineer, responsible for leading a development team, and responsible for the quality of its technical deliverables. Humbly vindicating myself against the Peter Principle.
+
 ### Senior Consultant @ ThoughtWorks
-#### january 2017 - current
+#### january 2017 - april 2019
 
 I am currently leading a team focused in developing and maintaining a collection of business critical services
 while trying to achieve the utmost standards in software development practices. I am responsible for building 
@@ -89,7 +94,6 @@ Instructor in one of the most recognized Venezuela's CGI institutes. Taught over
 
 ## Awards
 
-
 ### One of the top posts on Tumblr in tech during 2013
 #### 2013
 Project manager and developer in the project Mcalc, an app that enables individuals all across the gender spectrum to track their menstruation cycle. We were featured in A Year in Review and the Huffington Post.
@@ -97,6 +101,7 @@ Project manager and developer in the project Mcalc, an app that enables individu
 
 ### Best Webapp in Paypal Battle Hack Barcelona
 #### 2013
+
 Took the role of product owner and developer in a pay-what-you-want marketplace for secondhand with Paypal integration under 24 hours.
 
 
@@ -111,10 +116,10 @@ Took the role of product owner and developer in a group oriented booking engine 
 I've worked in different multimedia projects that have taken me to Film Festivals in Sitges, San Sebastián and all over Latin America.
 
 
-I have a YouTube Channel called Super Political Compass
+I have a YouTube Channel called [Super Political Compass](https://www.youtube.com/channel/UC7N8oiW9sgFpkZwKMt5lpcA)
 
 
-I managed to combine both my passions (programming and film) to make my node package moviematch.
+I managed to combine both my passions (programming and film) to make my node package [moviematch](https://github.com/cris7ian/moviematch).
 
 
 ### Writing
@@ -122,16 +127,13 @@ I managed to combine both my passions (programming and film) to make my node pac
 I am a published author of short stories and I’m currently writing an action novel and a steampunk oddisey.
 
 
-You can buy my book Bajo la Sombra de los Elefantes in Amazon.
+You can buy my book [Bajo la Sombra de los Elefantes in Amazon](https://www.amazon.es/Bajo-Sombra-Elefantes-Cristian-Caroli/dp/1511523093).
 
 
-Read some funny stuff I post online in First Draft Endings.
+Read some funny stuff I post online in [First Draft Endings](http://firstdraftendings.com/).
 
 
-I made a Venezuelan adaptation of Cards Against Humanity called Caracas Against Humanity.
-
-
-Also, I have my own storytelling blog Invisible Bridges
+I made a Venezuelan adaptation of Cards Against Humanity called [Caracas Against Humanity](http://www.caracasagainsthumanity.com/).
 
 
 ### Digital Card Games
@@ -139,10 +141,10 @@ Also, I have my own storytelling blog Invisible Bridges
 I love to play at a competitive level the following games:
 
 - Hearthstone
-- Duelyst
 - Clash Royale
+- Gwent.
 
-I also happen to have a couple of Fortnite wins under my belt in duos and squads.
+I also happen to have a couple of Fortnite wins under my belt.
 
 ## Education
 
