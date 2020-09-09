@@ -4,8 +4,6 @@ location: Barcelona, Spain
 
 email: cristiancaroli (at) gmail.com
 
-phone: +34 669 704 176
-
 > "Imagination will often carry us to worlds that never were. But without it we go nowhere."
 -Carl Sagan
 
