@@ -27,7 +27,6 @@ const Header = () => (
         <li>
           <Envelope /> cristiancaroli (at) gmail.com
         </li>
-        <li><Phone /> +34 669 704 176 </li>
         <li>
           <a
             target="_blank"
