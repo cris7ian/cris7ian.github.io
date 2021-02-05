@@ -17,12 +17,11 @@ I'm tall too.
 
 ## Skills
 
-- **Programming Languages**: JavaScript / ES7, Java, Ruby, Python, Scala
+- **Programming Languages**: JavaScript, TypeScript, Java, Ruby, Python, Scala
 - **Collaborative**: XP, Test Driven Development, Scrum, Kanban, Jira, Gitflow
-- **Frameworks**: React/Redux, Express, Spring Boot, Rails, Play
+- **Frameworks**: React, Redux, Express, Spring Boot, Rails, Play
 - **Cloud**: AWS, Travis, Jenkins, TeamCity, Heroku
-- **Tools**: Webpack, Gulp, Grunt
-- **Software**: After Effects, Premiere, Photoshop
+- **Film Production Software**: After Effects, Premiere, Photoshop
 
 ## Work Experience
 
@@ -30,6 +29,8 @@ I'm tall too.
 #### april 2019 - while you're reading this
 
 To put it briefly, software engineer, responsible for leading a development team, and responsible for the quality of its technical deliverables. Humbly vindicating myself against the Peter Principle.
+
+I've also ran some tech leadership trainings, React/Typescript and frontend trainings, and _yadda yadda yadda_. 
 
 ### Senior Consultant @ ThoughtWorks
 #### january 2017 - april 2019
@@ -114,7 +115,7 @@ Took the role of product owner and developer in a group oriented booking engine 
 I've worked in different multimedia projects that have taken me to Film Festivals in Sitges, San Sebastián and all over Latin America.
 
 
-I have a YouTube Channel called [Super Political Compass](https://www.youtube.com/channel/UC7N8oiW9sgFpkZwKMt5lpcA)
+I have a podcast called [Hammerspace](https://www.youtube.com/channel/UCfh2YzAjVBvzWujqxFXKPNA)
 
 
 I managed to combine both my passions (programming and film) to make my node package [moviematch](https://github.com/cris7ian/moviematch).
@@ -122,7 +123,7 @@ I managed to combine both my passions (programming and film) to make my node pac
 
 ### Writing
 
-I am a published author of short stories and I’m currently writing an action novel and a steampunk oddisey.
+I am a published author of short stories and I’m currently writing a fantasy novel and a working on a screenplay about some other cool stuff.
 
 
 You can buy my book [Bajo la Sombra de los Elefantes in Amazon](https://www.amazon.es/Bajo-Sombra-Elefantes-Cristian-Caroli/dp/1511523093).
@@ -157,7 +158,7 @@ This program gave me the tools to understand story structure, narrative and visu
 #### 2004-2009
 
 Mention: Cum Laude. GPA: 4.28 / 5 I specialized in Artificial Intelligence, Computer Graphics and UIX. Universidad 
-Simón Bolívar is one of the most prestigious technical universities in Latin America.
+Simón Bolívar was at the time one of the most prestigious technical universities in Latin America.
 
 ## Thesis Research Topic (sept 2008 - sept 2009)
 
@@ -168,26 +169,21 @@ adjusts to passive player moves by reducing the level of dynamism and violence. 
 questioned to determine if this adaptive strategy makes the game more appealing to their preference. The project obtained 
 an Exceptionally Good Mention.
 
-## Certifications
+## Some Fun Certifications
 
 - Fantasy and Science Fiction: Our Human Mind, Our Modern World. University of Michigan.
 - Online Games: Literature, New Media and Narrative. vanderbilt University.
-- Video Games and Learning. University of Wisconsin-Madison
-- Adobe Flash CS3 Instructor, Adobe.
-- After Effects CS3 Certified Instructor, Adobe.
-- Code School, all the medals.
 
 ## Memberships
 
-- Siggraph Student Volunteer.
-- Member of the Artificial Intelligence Group.
+- Siggraph Student Volunteer 2009.
+- Member of the Artificial Intelligence Group GIA USB.
 - Computer Science Student’s Center (CEIC) USB
 - JOINCIC Founder and Head of Image and Advertisement.
 - Global Game Jam 2011. Co-Host and Game Designer.
 
 ## Speaker
 
-- **ThoughtWorks' React Dojo**, Barcelona, ongoing meetup (creator and organizer).
 - **Gamexpo**, Caracas 2009, Chester: Adaptive Storytelling.
 - **JOINCIC**, Caracas 2009, Intelligent Environments for Videogames.
 
