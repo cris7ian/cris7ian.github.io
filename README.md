@@ -1,5 +1,3 @@
-# Cristian E. Caroli
-
 > I'm a software engineer based in Barcelona 🌊 with over 10 years of experience in the IT industry.
 
 # ☎️ Contact
